@@ -29,7 +29,7 @@
     "videojs-thumbnails": "^1.0.3",
     "@project-sunbird/client-services": "^3.3.27",
     "@project-sunbird/sb-styles": "0.0.7",
-    "@project-sunbird/telemetry-sdk": "0.0.26",
+    "@project-sunbird/telemetry-sdk": "2.0.1",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
@@ -46,7 +46,7 @@
     "fs-extra": "^9.0.1",
     "jasmine-core": "~2.99.1",
     "jasmine-spec-reporter": "~4.2.1",
-    "karma": "~4.0.0",
+    "karma": "~6.4.4",
     "karma-chrome-launcher": "~2.2.0",
     "karma-coverage-istanbul-reporter": "~2.0.1",
     "karma-jasmine": "~1.1.2",
